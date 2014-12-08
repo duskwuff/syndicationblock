@@ -1,0 +1,9 @@
+! Outbrain
+||widgets.outbrain.com/outbrain.js
+||odb.outbrain.com/utils/get
+
+! Taboola
+||cdn.taboola.com/libtrc/
+
+! Zergnet
+||zergnet.com/zerg.js

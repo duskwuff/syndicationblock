@@ -1,0 +1,3 @@
+! Title: SyndicationBlock
+! Expires: 3 days
+! Homepage: http://github.com/duskwuff/syndicationblock/
