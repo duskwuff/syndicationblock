@@ -7,3 +7,7 @@
 
 ! Zergnet
 ||zergnet.com/zerg.js
+
+! Contextly
+||contextlysitescripts.contextly.com/kit/
+||rest.contextly.com/
