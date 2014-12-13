@@ -16,4 +16,4 @@
 ||rma-api.gravity.com
 
 ! Yavli
-##DIV.gbqfwa
+~google.com##DIV.gbqfwa
