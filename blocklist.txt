@@ -1,8 +1,8 @@
 ! Title: SyndicationBlock
 ! Expires: 3 days
 ! Homepage: http://github.com/duskwuff/syndicationblock/
-! Version: 1418428040
-! Checksum: u+th4bv0Yq1vUUmiHVk+tA
+! Version: 1418434008
+! Checksum: VhNmboXaxW5S2ZbcZZgr2A
 
 ! Outbrain
 ||widgets.outbrain.com/outbrain.js
@@ -22,4 +22,4 @@
 ||rma-api.gravity.com
 
 ! Yavli
-##DIV.gbqfwa
+~google.com##DIV.gbqfwa
