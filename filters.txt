@@ -15,3 +15,5 @@
 ! Gravity
 ||rma-api.gravity.com
 
+! Zemanta
+||content.zemanta.com
