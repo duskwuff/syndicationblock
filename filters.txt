@@ -4,6 +4,7 @@
 
 ! Taboola
 ||cdn.taboola.com/libtrc/
+||c2.taboola.com/nr/ndtv/
 
 ! Zergnet
 ||zergnet.com/zerg.js
@@ -17,3 +18,9 @@
 
 ! Zemanta
 ||content.zemanta.com
+
+! 2leep
+||likecontrol.com/ticker2/
+
+! Tack
+||api.snapskout.com/i/
