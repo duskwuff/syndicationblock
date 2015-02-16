@@ -4,6 +4,7 @@
 
 ! Taboola
 ||cdn.taboola.com/libtrc/
+||cdn.taboolasyndication.com/libtrc/
 ||c2.taboola.com/nr/ndtv/
 
 ! Zergnet
