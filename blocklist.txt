@@ -1,8 +1,8 @@
 ! Title: SyndicationBlock
 ! Expires: 3 days
 ! Homepage: http://github.com/duskwuff/syndicationblock/
-! Version: 1422155958
-! Checksum: wFyD/qqxXRP1qkNMkjUYzQ
+! Version: 1424120940
+! Checksum: B4VUWgNcvzDrnfwJamAX6w
 
 ! Outbrain
 ||widgets.outbrain.com/outbrain.js
@@ -10,6 +10,7 @@
 
 ! Taboola
 ||cdn.taboola.com/libtrc/
+||cdn.taboolasyndication.com/libtrc/
 ||c2.taboola.com/nr/ndtv/
 
 ! Zergnet
