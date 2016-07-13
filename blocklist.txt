@@ -1,8 +1,8 @@
 ! Title: SyndicationBlock
 ! Expires: 3 days
 ! Homepage: http://github.com/duskwuff/syndicationblock/
-! Version: 1424120940
-! Checksum: B4VUWgNcvzDrnfwJamAX6w
+! Version: 1468451073
+! Checksum: euKbdPyOafVBfHQojrrZXQ
 
 ! Outbrain
 ||widgets.outbrain.com/outbrain.js
@@ -31,3 +31,6 @@
 
 ! Tack
 ||api.snapskout.com/i/
+
+! Newsmax Feed Network
+||cdn.nmcdn.us
