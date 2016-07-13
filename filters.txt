@@ -25,3 +25,6 @@
 
 ! Tack
 ||api.snapskout.com/i/
+
+! Newsmax Feed Network
+||cdn.nmcdn.us
